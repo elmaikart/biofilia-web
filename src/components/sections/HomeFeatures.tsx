@@ -8,10 +8,10 @@ export default function HomeFeatures() {
         {hidroponiaSlides.map((slide) => (
           <FeatureCard
             key={slide.title}
-            tag={slide.tag}
+            tag={slide.tag ?? ""}
             title={slide.title}
-            description={slide.desc}
-            image={slide.image}
+            description={slide.desc ?? ""}
+            image={slide.image ?? "/images/placeholder.png"}
           />
         ))}
       </div>
