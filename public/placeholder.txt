@@ -1,0 +1,1 @@
+Poné tus imágenes en /public/images y referencialas desde los data/*.ts
