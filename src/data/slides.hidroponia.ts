@@ -26,9 +26,9 @@ export const hidroponiaSlides: Slide[] = [
     image: "/images/step-bioads.png",
   },
   {
-    tag: "Aplicada a la Emoción",
+    tag: "Aplicada a los Valores",
     title: "Bio-Gifts y Souvenirs",
-    desc: "visitá nuestra galería de Regalos, Souvenirs y Artículos de Merchandising",
+    desc: "Visitá nuestra galería de Regalos, Souvenirs y Artículos de Merchandising",
     image: "/images/step-biogifts.png",
   },
 ];
